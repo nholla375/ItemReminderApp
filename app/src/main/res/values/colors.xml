@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="findit_blue">#2563EB</color>
+    <color name="findit_blue_dark">#1E40AF</color>
+    <color name="findit_background">#F5F7FB</color>
+    <color name="findit_text">#1F2937</color>
+    <color name="findit_muted">#6B7280</color>
+</resources>
